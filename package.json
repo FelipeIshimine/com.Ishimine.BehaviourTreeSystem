@@ -1,0 +1,21 @@
+{
+  "name": "ishimine.behaviourtreesystem",
+  "displayName": "Felipe Ishimine - Behaviour Tree System",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "keywords": [
+    "UI",
+    "ugui",
+    "Canvas",
+    "Behaviour",
+    "Behavior",
+    "Tree",
+    "Editor"
+  ],
+  "description": "Behavior Tree package based on the 'FREE Behavior Tree Editor for Unity' from 'TheKiwiCoder'",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "BehaviourTreeSystem.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9ac8f4ecd7ff04b4384220c35371c6bf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
